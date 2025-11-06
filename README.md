@@ -1,1 +1,1 @@
-Chapitre A : écrit par Alice
+Chapitre A : écrit par Bob

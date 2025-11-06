@@ -1,4 +1,1 @@
-Essai
-Modifié
-Modifié par valentin
-Nouvelle modif
+Chapitre A : écrit par Bob
